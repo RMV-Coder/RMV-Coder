@@ -4,7 +4,7 @@
 
 Welcome to my GitHub space! I'm a BS in Computer Applications – IoT graduate from MSU-IIT, passionate about creating tech that bridges the gap between software, hardware, and real-world needs.
 
-Whether it’s designing AI-powered security systems, developing robotics with thermal detection, or deploying scalable web apps with Node.js and Next.js — I thrive at the intersection of **code, innovation, and impact**.
+Whether it’s designing AI-powered security systems, developing robotics with object detection, or deploying scalable web apps with Node.js and Next.js — I thrive at the intersection of **code, innovation, and impact**.
 
 ## 💡 What I Do
 - Full-Stack Web Development (Node.js, Express, React/Next.js, MySQL)
