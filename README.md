@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Raymond Valdepeñas
 
-<!--
-**RMV-Coder/RMV-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Full-Stack Developer & IoT Enthusiast | 🛠️ Builder of Smart Systems | 🔬 Research-Driven Innovator  
 
-Here are some ideas to get you started:
+Welcome to my GitHub space! I'm a BS in Computer Applications – IoT graduate from MSU-IIT, passionate about creating tech that bridges the gap between software, hardware, and real-world needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether it’s designing AI-powered security systems, developing robotics with thermal detection, or deploying scalable web apps with Node.js and Next.js — I thrive at the intersection of **code, innovation, and impact**.
+
+## 💡 What I Do
+- Full-Stack Web Development (Node.js, Express, React/Next.js, MySQL)
+- AIoT & Robotics Projects (Raspberry Pi, ESP32, Arduino, Computer Vision)
+- Research & Prototyping (Autonomous systems, smart plant watering bots)
+- UI/UX & Branding (Adobe Illustrator, Figma, design thinking)
+- Startup Building & Leadership (PureWave Solutions, student orgs)
+
+## 🔭 Currently Exploring
+- Real-time data streaming with WebSockets & WebRTC
+- Integrating dynamic web applications with Computer Vision AI models (Roboflow, Pytorch) 
+- Object detection + embedded ML with custom models  
+- Startup development & IoT product deployment  
+
+## 📬 Let's Connect
+- 📎 [LinkedIn](https://www.linkedin.com/in/raymond-mv002/)
+- 💼 [Portfolio (coming soon!)]
+- 📧 raymond.valdepenas@g.msuiit.edu.ph
+
+---
+
+## 📊 GitHub Activity & Stats
