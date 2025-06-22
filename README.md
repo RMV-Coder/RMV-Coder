@@ -14,8 +14,9 @@ Whether it’s designing AI-powered security systems, developing robotics with t
 - Startup Building & Leadership (PureWave Solutions, PaySada, student orgs)
 
 ## 📚 Research & Publications  
-📖 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8680--3694-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8680-3694)
-🧪 [ResearchGate](https://www.researchgate.net/profile/Raymond-Valdepenas)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8680--3694-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8680-3694)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Raymond_Valdepeñas-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Raymond-Valdepenas)
+
 
 ## 🔭 Currently Exploring
 - Real-time data streaming with WebSockets & WebRTC
