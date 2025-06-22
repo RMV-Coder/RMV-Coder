@@ -11,13 +11,17 @@ Whether it’s designing AI-powered security systems, developing robotics with t
 - AIoT & Robotics Projects (Raspberry Pi, ESP32, Arduino, Computer Vision)
 - Research & Prototyping (Autonomous systems, smart plant watering bots)
 - UI/UX & Branding (Adobe Illustrator, Figma, design thinking)
-- Startup Building & Leadership (PureWave Solutions, student orgs)
+- Startup Building & Leadership (PureWave Solutions, PaySada, student orgs)
+
+## 📚 Research & Publications  
+📖 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8680--3694-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8680-3694)
+🧪 [ResearchGate](https://www.researchgate.net/profile/Raymond-Valdepenas)
 
 ## 🔭 Currently Exploring
 - Real-time data streaming with WebSockets & WebRTC
-- Integrating dynamic web applications with Computer Vision AI models (Roboflow, Pytorch) 
+- Integrating dynamic web applications with Computer Vision AI models (Roboflow, Pytorch, Flask, FastAPI) 
 - Object detection + embedded ML with custom models  
-- Startup development & IoT product deployment  
+- Startup development & IoT product deployment 
 
 ## 📬 Let's Connect
 - 📎 [LinkedIn](https://www.linkedin.com/in/raymond-mv002/)
