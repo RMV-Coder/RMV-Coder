@@ -2,12 +2,12 @@
 
 🎓 A Full-Stack Developer & IoT Enthusiast | 🛠️ Builder of Smart Systems | 🔬 Research-Driven Innovator  
 
-Welcome to my GitHub space! I'm a BS in Computer Applications – IoT graduate from MSU-IIT, passionate about creating tech that bridges the gap between software, hardware, and real-world needs.
+Welcome to my GitHub space! I'm a Bachelor of Science in Computer Applications major in Internet of Things (IoT) graduate from Mindanao State University - Iligan Institute of Technology, passionate about creating tech that bridges the gap between software, hardware, and real-world needs.
 
 Whether designing AI-powered security systems, developing robotics with object detection, or deploying scalable web apps with Node.js and Next.js — I thrive at the intersection of **code, innovation, and impact**.
 
 ## 💡 What I Do
-- Full-Stack Web Development (Node.js, Express, React/Next.js, MySQL)
+- Full-Stack Web Development (Node.js, Express, React/Next.js, MySQL, Redis, Firebase)
 - AIoT & Robotics Projects (Raspberry Pi, ESP32, Arduino, Computer Vision)
 - Research & Prototyping (Autonomous systems, smart plant watering bots)
 - UI/UX & Branding (Adobe Illustrator, Figma, design thinking)
