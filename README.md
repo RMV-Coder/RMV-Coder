@@ -25,12 +25,12 @@ Whether designing AI-powered security systems, developing robotics with object d
 - Startup development & IoT product deployment
 
 ## 💻 Current Work
-- Junior Software Developer at Career Team
+- Software Developer at Career Team
 
 ## 📬 Let's Connect
 - 📎 [LinkedIn](https://www.linkedin.com/in/raymond-mv002/)
 - 💼 [Portfolio](https://raymondvaldepenas-dev.vercel.app)
-- 📧 raymond.valdepenas@g.msuiit.edu.ph 
+- 📧 raymondvaldepenas.dev@gmail.com 
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsme.rmv.728) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raymond.mv002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-mv002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raymond.valdepenas@g.msuiit.edu.ph) 
