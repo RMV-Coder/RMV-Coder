@@ -7,11 +7,12 @@ Welcome to my GitHub space! I'm a Bachelor of Science in Computer Applications m
 Whether designing AI-powered security systems, developing robotics with object detection, or deploying scalable web apps with Node.js and Next.js — I thrive at the intersection of **code, innovation, and impact**.
 
 ## 💡 What I Do
-- Full-Stack Web Development (Node.js, Express, React/Next.js, MySQL, Redis, Firebase)
-- AIoT & Robotics Projects (Raspberry Pi, ESP32, Arduino, Computer Vision)
-- Research & Prototyping (Autonomous systems, smart plant watering bots)
-- UI/UX & Branding (Adobe Illustrator, Figma, design thinking)
-- Startup Building & Leadership (PureWave Solutions, PaySada, student orgs)
+- **Full-Stack Product Engineering** — Next.js, React, TypeScript, PostgreSQL, Redis, Supabase. Outside my day job, I build and run [myBoardHub](https://myboardhub.com), a property-management platform for Philippine boarding houses
+- **Local-First & Privacy-First Software** — [LocalPass](https://github.com/RMV-Coder/LocalPass) (self-hosted password and secrets manager, Rust), [Veltriva](https://github.com/RMV-Coder/veltriva) (a Chromium browser that remembers your tabs), [Veyra](https://github.com/RMV-Coder/veyra) (Git-compatible version control in Rust)
+- **AI That Teaches** — [SyntaxLab](https://github.com/RMV-Coder/SyntaxLab): sentence parse trees and dependency graphs, with every label explained, for students of English and linguistics
+- **AIoT & Edge Computing** — Raspberry Pi, ESP32 and Arduino systems with computer vision and sensors ([hydrobots](https://github.com/RMV-Coder/hydrobots), [ESP32 Smart Home Security](https://github.com/RMV-Coder/ESP32-SmartHome-Security))
+- **Automation** — self-hosted n8n pipelines ([yta-automation](https://github.com/RMV-Coder/yta-automation)) and AI-assisted developer tooling
+- **Design, Research & Startups** — UI/UX and branding (Figma, Illustrator), published research, PureWave Solutions, PaySada
 
 ## 📚 Research & Publications  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8680--3694-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8680-3694)
@@ -19,10 +20,11 @@ Whether designing AI-powered security systems, developing robotics with object d
 
 
 ## 🔭 Currently Exploring
-- Real-time data streaming with WebSockets & WebRTC
-- Integrating dynamic web applications with Computer Vision AI models (Roboflow, Pytorch, Flask, FastAPI) 
-- Object detection + embedded ML with custom models  
-- Startup development & IoT product deployment
+- Rust for systems tools: encryption, Git internals, desktop apps
+- Local-first and offline-capable software
+- Edge computer vision on the Raspberry Pi 5
+- Multi-agent AI systems, and AI that explains its reasoning
+- Writing tools: [Routype](https://github.com/RMV-Coder/Routype), a writing platform with a typing game built from writers' own words
 
 ## 💻 Current Work
 - Software Developer at Career Team
